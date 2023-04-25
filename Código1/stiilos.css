@@ -1,0 +1,107 @@
+body {
+  background-color: #e0e0e0;
+}
+
+.grid_12 {
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+.grid_12 h1 {
+  padding: 15px 0px;
+  color: #0088DD;
+}
+.grid_12 h2 {
+  color: #0088e0;
+}
+.grid_12 p {
+  padding-bottom: 15px;
+}
+
+#Baixo .tabela {
+  text-align: center;
+}
+#Baixo .tabela table {
+  display: inline-block;
+  border: 2px solid black;
+}
+#Baixo .tabela table thead tr td {
+  background-color: #90B4D6;
+  color: white;
+}
+#Baixo .tabela table tbody tr td {
+  background-color: #E0E9F0;
+}
+
+.grid_8 {
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  width: 48%;
+  display: inline-block;
+  vertical-align: top;
+}
+.grid_8 h2 {
+  color: #0088DD;
+}
+.grid_8 .videoo {
+  display: flex;
+  width: 300px;
+  height: 300px;
+  padding-top: 15.4%;
+}
+
+#ladinho {
+  width: 48%;
+  vertical-align: top;
+  float: right;
+}
+#ladinho .iframeer {
+  display: flex;
+  justify-content: center;
+}
+
+#gridinho12 {
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+#gridinho12 h2 {
+  color: #0088DD;
+}
+#gridinho12 .infos2 fieldset {
+  background-color: white;
+}
+#gridinho12 .infos2 legend {
+  color: black;
+  background-color: white;
+  border: 1px solid;
+}
+#gridinho12 .infos2 label {
+  color: gray;
+  text-align: center;
+}
+#gridinho12 .infos2 input {
+  text-align: center;
+}
+#gridinho12 .infos2 #submitar {
+  background-color: green;
+}
+#gridinho12 .informacao fieldset {
+  background-color: white;
+}
+#gridinho12 .informacao legend {
+  border: 1px solid;
+  color: black;
+  background-color: white;
+}
+#gridinho12 .informacao label {
+  color: gray;
+  text-align: center;
+}
+#gridinho12 .informacao input {
+  text-align: center;
+}
+#gridinho12 .informacao form {
+  display: flex;
+  width: 90%;
+  height: 80px;
+  margin: 0 auto;
+}/*# sourceMappingURL=stiilos.css.map */
